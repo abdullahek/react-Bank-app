@@ -1,0 +1,26 @@
+.Header{
+    background-color: rgb(236, 101, 146);
+    width: 100%;
+    height: 60px;
+    color: white;
+    padding : 0px;
+    margin:0px;
+margin-bottom: 30px;
+text-align: center;
+
+}
+.Bank_header{
+    display: inline;
+padding-top:200px;  
+text-decoration: none;  
+}
+.Bank_header a{
+    text-decoration: none;
+    color: white;
+    
+}
+.new_accounts{
+width:50%;
+margin-left:350px; 
+
+}

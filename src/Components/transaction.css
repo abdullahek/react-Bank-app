@@ -1,0 +1,13 @@
+.transaction{
+    background-color:gray;
+    height:300px;
+    width: 40%;
+    margin-left: 50px;
+    color: white;
+    float: left;
+}
+.transaction_head{
+    display: inline;
+    text-align: left;
+    margin-left: 20px;
+}
